@@ -1,3 +1,4 @@
+-- Nama toko terbanyak berdasarkan total quantity
 SELECT css.store_name AS "store name", SUM(qty) AS "total quantity"
 FROM case_study_transaction cst 
 INNER JOIN case_study_store css 
