@@ -1,0 +1,7 @@
+SELECT css.store_name AS "store name", SUM(qty) AS "total quantity"
+FROM case_study_transaction cst 
+INNER JOIN case_study_store css 
+ON cst.StoreId = css.StoreID
+GROUP BY "store name"
+ORDER BY  "total quantity" DESC 
+LIMIT 1;
