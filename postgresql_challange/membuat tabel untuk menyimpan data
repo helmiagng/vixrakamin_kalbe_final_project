@@ -1,0 +1,53 @@
+-- Membuat tabel untuk menyimpan data customers
+CREATE TABLE case_study_customers
+(
+	CustomerID INT PRIMARY KEY,
+	age INT,
+	gender INT,
+	marital_status VARCHAR(10),
+	income NUMERIC(5,2)
+);
+
+-- Membuat tabel untuk menyimpan data toko
+CREATE TABLE case_study_store
+(
+	StoreID INT PRIMARY KEY,
+	store_name VARCHAR(20),
+	group_store VARCHAR(20),
+	TYPE VARCHAR(20),
+	latitude NUMERIC(10,6),
+	longitude NUMERIC(10,6)
+);
+
+-- Membuat tabel untuk menyimpan data produk
+CREATE TABLE case_study_product
+(
+	ProductID VARCHAR(3) PRIMARY KEY,
+	product_name VARCHAR(20),
+	price INT
+);
+
+-- Membuat tabel untuk menyimpan data transaksi
+CREATE TABLE case_study_transaction
+(
+	TransactionID VARCHAR(15) ,
+	CustomerID INT,
+	date DATE,
+	ProductID VARCHAR(3),
+	price INT,
+	qty INT,
+	total_amount INT,
+	StoreID INT,
+	FOREIGN KEY (CustomerID) REFERENCES case_study_customers(CustomerID),
+	FOREIGN KEY(ProductID) REFERENCES case_study_product(ProductID),
+	FOREIGN KEY(StoreID) REFERENCES case_study_store(StoreID)
+);
+
+
+ 
+
+
+
+
+
+
