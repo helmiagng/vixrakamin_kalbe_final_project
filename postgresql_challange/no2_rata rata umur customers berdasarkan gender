@@ -1,0 +1,7 @@
+-- Menghitung rata-rata umut customers berdasarkan gender
+SELECT gender, AVG(age) AS "umur customer"
+FROM case_study_customers cs
+WHERE gender IS NOT NULL 
+GROUP BY gender
+
+
