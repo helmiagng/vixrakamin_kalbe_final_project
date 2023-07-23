@@ -8,6 +8,7 @@ https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/58e2bbd85a88384
 **No.1 Berapa rata-rata umur customers berdasarkan marital status?
 **Query:**
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/c004f1fc-dce4-400a-a8dd-331df56fc318)
+
 **Jawaban:**
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/2b0637c5-c73f-4b8b-ae61-9d10875926f2)
 
