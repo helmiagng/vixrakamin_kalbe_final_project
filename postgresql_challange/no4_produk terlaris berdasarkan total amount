@@ -1,0 +1,8 @@
+-- produk terlaris berdasarkan total amount
+SELECT csp.product_name AS "product name",SUM(cst.total_amount) AS "total amount"
+FROM case_study_transaction cst 
+INNER JOIN case_study_product csp 
+ON cst.ProductID = csp.ProductID
+GROUP BY "product name"
+ORDER BY  "total amount" DESC 
+LIMIT 1;
