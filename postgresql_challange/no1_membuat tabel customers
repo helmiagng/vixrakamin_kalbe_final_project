@@ -1,0 +1,9 @@
+-- membuat tabel untuk menyimpan data customers
+CREATE TABLE case_study_customers
+(
+	CustomerID INT PRIMARY KEY,
+	age INT,
+	gender INT,
+	marital_status VARCHAR(10),
+	income NUMERIC(5,2)
+);
