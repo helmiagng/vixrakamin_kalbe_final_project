@@ -1,0 +1,5 @@
+-- Menghitung rata-rata umur customer berdasarkan marital status
+SELECT marital_status AS "marital status", AVG(age) AS "umur customer"
+FROM case_study_customers 
+WHERE marital_status  IS NOT NULL 
+GROUP BY marital_status 
