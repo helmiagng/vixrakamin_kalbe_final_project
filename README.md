@@ -25,6 +25,32 @@ https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/58e2bbd85a88384
 
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/0f5e0b80-d662-470e-856a-bb79c0132ad7)
 
+**No.3 Tentukan nama store dengan total quantity terbanyak!**
+
+**Query:**
+
+![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/03e7f064-b1cb-4dc7-81e3-8c2a431fd4ba)
+
+**Jawaban:**
+
+![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/924195e2-4dbf-4275-a8b2-bd8dc9a595dc)
+
+**No.4 Tentukan produk terlaris dengan total amount terbanyak!**
+
+**Query:**
+
+![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/fb4f73d3-d57d-415c-bbcc-6fb8ace3fd25)
+
+**Jawaban:**
+
+![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/f112e30c-8119-4b10-ac1a-557f63e16e5f)
+
+
+
+
+
+
+
 
 
 
