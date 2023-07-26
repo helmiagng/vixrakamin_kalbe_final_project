@@ -56,6 +56,7 @@ https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/58e2bbd85a88384
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/409677de-83f3-4d89-b923-f705446940bb)
 
 ## Clustering Challange
+**Link Notebook:** https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/main/clustering_kalbe_customers.ipynb
 
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/23c72ee6-eecb-4e26-a425-2f1d28632644)
 
