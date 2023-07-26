@@ -47,6 +47,8 @@ https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/58e2bbd85a88384
 
 ## Forecasting daily total amount challange
 
+**Link notebook:**  https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/main/Forecasting%20daily%20total%20amount.ipynb
+
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/25a2f037-30ac-42a2-a760-09e3e025a071)
 
 **Models forecasting forecast performance**
