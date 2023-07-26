@@ -45,6 +45,16 @@ https://github.com/helmiagng/vixrakamin_kalbe_final_project/blob/58e2bbd85a88384
 
 ![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/f112e30c-8119-4b10-ac1a-557f63e16e5f)
 
+## Forecasting daily total amount challange
+
+![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/25a2f037-30ac-42a2-a760-09e3e025a071)
+
+**Models forecasting forecast performance**
+
+![image](https://github.com/helmiagng/vixrakamin_kalbe_final_project/assets/68595414/409677de-83f3-4d89-b923-f705446940bb)
+
+
+
 
 
 
